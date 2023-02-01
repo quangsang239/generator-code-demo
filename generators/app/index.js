@@ -1,5 +1,4 @@
 import Generator from "yeoman-generator";
-import _ from "lodash";
 
 export default class extends Generator {
   async prompting() {
